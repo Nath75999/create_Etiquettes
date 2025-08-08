@@ -1,5 +1,5 @@
-Numéro de téléphone: 07 66 22 45 99
 Adresse mail: n6422999gmail.com
 Lien GitHub: https://github.com/Nath75999/etiquettes_Mersier
+
 
 Ces informations sont possibles de changer. Le contact le plus fiable reste le GitHub car le code est archivé (et la base de données datant du 06/08/2025). Si des fichiers sont supprimés, il est possible de les télécharger via le GitHub.
