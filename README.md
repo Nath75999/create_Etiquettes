@@ -13,3 +13,6 @@ Il faut utiliser le code du dossier createEtiquettes pour générer les images c
 Toutes les instructions nécessaires à l'éxecution du projet sont données dans les fichier README.md, situés dans les dossiers correspondants.
 Il faut soit (cas 1) effectuer les instructions dans le dossier formateBDD puis les instructions dans le dossier createEtiquettes 
 ou (cas 2) uniquement effectuer les instructions dans le dossier createEtiquettes.
+
+### NOTE IMPORTANTE:
+Les caractères non compris dans la table ascii de base (pas d'accents ou de caractères spéciaux) ont été remplacé par '_'.
