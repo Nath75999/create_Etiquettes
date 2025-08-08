@@ -1,4 +1,4 @@
-# Préparateur d'étiquettes pour la ludothèque du centre social Mersier, 50 000 Saint Lô
+# Préparateur d'étiquettes à partir d'une base de données CSV
 
 Ce programme crée des images (.png) à partir d'une base de données (.csv) contenant au maximum 21 étiquettes pour impression. Les images seront stockées dans un dossier result. Il est possible que des images temporaires soient créées à la racine de ce projet. Elles sont inutiles et peuvent être supprimées.
 
