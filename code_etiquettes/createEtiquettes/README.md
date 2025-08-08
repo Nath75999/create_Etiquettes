@@ -17,3 +17,6 @@ make clean; make
 
 ### Execution
 ./CREATE_ETIQUETTES
+
+### NOTE IMPORTANTE:
+Les caractères non compris dans la table ascii de base (pas d'accents ou de caractères spéciaux) ont été remplacé par '_'.
